@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Project Info.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created a simple one page Travel website using React.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+This will get and install all the required dependencies for React.
 
 ### `npm start`
 
